@@ -33,6 +33,4 @@ This project is a complete implementation of a Student Records Management System
    - Draw a 1-1 or 1-M relationship from Students to Departments.
    - Draw a 1-M relationship from Courses to Instructors.
    - Draw a 1-M relationship from Courses to Departments.
-4. **Label each entity with the appropriate attributes** as described in the `CREATE TABLE` statements in the `.sql` file.
-
 
